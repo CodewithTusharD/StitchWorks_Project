@@ -61,7 +61,8 @@ Check The working video of the Project by clicking on the link given below :
 for video click here -> https://drive.google.com/file/d/1NGqiQ-WGh3IjDRuMy_llj917hzbCytFb/view?usp=drive_link
 
 Getting Started:
-Clone the repository
+Clone the repository StitchWorks_ProgramFiles
+here is the link given for the repo: https://github.com/CodewithTusharD/StitchWorks_ProgramFiles/tree/my-new-branch
 Navigate to the project directory
 Build the project: Use your preferred IDE or build tools like Maven/Gradle.
 Run the application: Ensure your MySQL database is set up and configured correctly.
