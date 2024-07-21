@@ -57,8 +57,8 @@ Get Ready Items from worker:
 Deliver to the customer: 
 ![image](https://github.com/user-attachments/assets/02977405-d7e4-4068-bcf7-0dad7efef337)
 
-
-
+Check The working video of the Project by clicking on the link given below :
+for video click here -> https://drive.google.com/file/d/1NGqiQ-WGh3IjDRuMy_llj917hzbCytFb/view?usp=drive_link
 
 Getting Started:
 Clone the repository
