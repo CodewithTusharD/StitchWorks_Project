@@ -3,22 +3,32 @@ StitchWorks - Tailor Business Management System
 StitchWorks is a comprehensive desktop application developed using Java and JavaFX to streamline the operations of a tailor business. The system offers a robust set of features designed to help tailor shop owners efficiently manage their business.
 
 Key Features:
-1> Owner Login: Secure login for the owner using an ID and password. The Owner ID & password logined to my database is owner ID: "owner6007@thapar.edu" & Password:"owner@1234"
-2> Customer Management: Store and manage detailed customer information.
-3> Worker Management: Maintain records of workers, including their skills and assignments.
-4> Order Management: Track customer orders with detailed information such as measurements, dress items, delivery dates, and the worker assigned to each order.
-5> Order Status Tracking: Monitor the status of orders through different stages:
--Order placed and assigned to worker.
--Order received from worker.
--Order delivered to the customer.
-6> Billing: Generate and manage bills for customer orders.
-7> Data Export: Export customer, worker, and order data to Excel sheets for easy record-keeping and analysis.
+Owner Login: Secure login for the owner using an ID and password.
+
+Owner ID: owner6007@thapar.edu
+Password: owner@1234
+Customer Management: Store and manage detailed customer information.
+
+Worker Management: Maintain records of workers, including their skills and assignments.
+
+Order Management: Track customer orders with detailed information such as measurements, dress items, delivery dates, and the worker assigned to each order.
+
+Order Status Tracking: Monitor the status of orders through different stages:
+
+Order placed and assigned to worker.
+Order received from worker.
+Order delivered to the customer.
+Billing: Generate and manage bills for customer orders.
+
+Data Export: Export customer, worker, and order data to Excel sheets for easy record-keeping and analysis.
+
+Email Notifications: Automated email notifications for order confirmation and delivery updates to keep customers informed about their order status.
 
 Technology Stack:
-1> Language: Java
-2> GUI Framework: JavaFX
-3> Database: MySQL (for storing customer, worker, and order details)
-4> Export: Apache POI (for exporting data to Excel sheets)
+Language: Java
+GUI Framework: JavaFX
+Database: MySQL (for storing customer, worker, and order details)
+Export: Apache POI (for exporting data to Excel sheets)
 Screenshots:
 Owner Login Page:
 ![image](https://github.com/user-attachments/assets/fc62c618-eb10-4b72-bf45-a7cc553bb9b1)
@@ -46,9 +56,6 @@ Get Ready Items from worker:
 
 Deliver to the customer: 
 ![image](https://github.com/user-attachments/assets/02977405-d7e4-4068-bcf7-0dad7efef337)
-
-
-
 
 
 
