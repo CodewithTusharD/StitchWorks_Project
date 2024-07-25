@@ -5,8 +5,6 @@ StitchWorks is a comprehensive desktop application developed using Java and Java
 Key Features:
 Owner Login: Secure login for the owner using an ID and password.
 
-Owner ID: owner6007@thapar.edu
-Password: owner@1234
 Customer Management: Store and manage detailed customer information.
 
 Worker Management: Maintain records of workers, including their skills and assignments.
@@ -65,6 +63,31 @@ Clone the repository StitchWorks_ProgramFiles
 here is the link given for the repo: https://github.com/CodewithTusharD/StitchWorks_ProgramFiles/tree/my-new-branch
 Navigate to the project directory
 Build the project: Use your preferred IDE or build tools like Maven/Gradle.
+
+Setup Instructions
+
+Set Up MySQL Database:
+
+Create a new database in MySQL.
+
+Execute the provided SQL script to create the required tables and insert initial data.
+
+Configure Owner ID and Password:
+
+Open your MySQL database management tool (e.g., phpMyAdmin, MySQL Workbench).
+
+Insert the owner's ID and password into the owners table using an SQL query. For example:
+sql
+Copy code
+
+INSERT INTO owners (owner_id, password) VALUES ('your_owner_id', 'your_password');
+
+Update Configuration:
+
+Update the database connection details in the application configuration files (e.g., database.properties or similar).
+
 Run the application: Ensure your MySQL database is set up and configured correctly.
+
 Contributions:
+
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.# StitchWorks_JavaFx_project
