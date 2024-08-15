@@ -29,31 +29,40 @@ Database: MySQL (for storing customer, worker, and order details)
 Export: Apache POI (for exporting data to Excel sheets)
 Screenshots:
 Owner Login Page:
-![image](https://github.com/user-attachments/assets/fc62c618-eb10-4b72-bf45-a7cc553bb9b1)
+<img width="560" alt="Screenshot 2024-08-15 140915" src="https://github.com/user-attachments/assets/e9c2f4d8-c48a-4d04-a463-dd587be15409">
+
+
 
 Owner's DashBoard:
-![image](https://github.com/user-attachments/assets/4dabfe85-0bf6-4503-af23-62abb1a1b06e)
+<img width="558" alt="Screenshot 2024-08-15 141257" src="https://github.com/user-attachments/assets/3c9b9595-6e92-49b6-9f9f-a75a593da679">
+
 
 Register Customer:
-![image](https://github.com/user-attachments/assets/6e57adef-8ba6-43d7-b9b0-f6e75e649847)
+<img width="557" alt="Screenshot 2024-08-15 141342" src="https://github.com/user-attachments/assets/9fbb425e-30d4-4dbb-9ec8-af650a7dbba9">
+
 
 Register Worker: 
-![image](https://github.com/user-attachments/assets/03714263-8779-44b5-ae09-8cb00c61a7b1)
+<img width="555" alt="Screenshot 2024-08-15 141437" src="https://github.com/user-attachments/assets/c589ee28-ebae-4f81-8394-bb7b8b875c46">
+
 
 Take a new Order: 
-<img width="556" alt="image" src="https://github.com/user-attachments/assets/6d9536d2-bd6c-4fd9-82de-11f18d42be20">
+<img width="557" alt="Screenshot 2024-08-15 142347" src="https://github.com/user-attachments/assets/59f13929-f1fb-4d83-ba90-24c162a4173e">
+
 
 See On going Orders: 
-<img width="554" alt="image" src="https://github.com/user-attachments/assets/20103772-9800-4b66-96a2-253e4e6803a9">
+<img width="554" alt="Screenshot 2024-08-15 141555" src="https://github.com/user-attachments/assets/c269b5fa-af89-415d-b8f4-3e43f7e3062d">
+
 
 See Worker's Record
-![image](https://github.com/user-attachments/assets/fcb2cdbb-a769-4537-a9ad-2a9ccc27af43)
+<img width="556" alt="Screenshot 2024-08-15 141649" src="https://github.com/user-attachments/assets/4fa85407-7596-47e1-bdbb-054c718316ae">
+
 
 Get Ready Items from worker:
-![image](https://github.com/user-attachments/assets/c0a2b4e0-f75f-40ab-9e0f-81e209dea32a)
+<img width="554" alt="Screenshot 2024-08-15 141759" src="https://github.com/user-attachments/assets/e0525d0a-6542-45c1-8406-8df4e04919ef">
+
 
 Deliver to the customer: 
-![image](https://github.com/user-attachments/assets/02977405-d7e4-4068-bcf7-0dad7efef337)
+<img width="557" alt="Screenshot 2024-08-15 142026" src="https://github.com/user-attachments/assets/b4fc772d-519e-48dd-83dc-f2d953129bde">
 
 Check The working video of the Project by clicking on the link given below :
 for video click here -> https://drive.google.com/file/d/1NGqiQ-WGh3IjDRuMy_llj917hzbCytFb/view?usp=drive_link
