@@ -28,40 +28,50 @@ GUI Framework: JavaFX
 Database: MySQL (for storing customer, worker, and order details)
 Export: Apache POI (for exporting data to Excel sheets)
 Screenshots:
+
 Owner Login Page:
+
 <img width="560" alt="Screenshot 2024-08-15 140915" src="https://github.com/user-attachments/assets/e9c2f4d8-c48a-4d04-a463-dd587be15409">
 
 
 
 Owner's DashBoard:
+
 <img width="558" alt="Screenshot 2024-08-15 141257" src="https://github.com/user-attachments/assets/3c9b9595-6e92-49b6-9f9f-a75a593da679">
 
 
 Register Customer:
+
 <img width="557" alt="Screenshot 2024-08-15 141342" src="https://github.com/user-attachments/assets/9fbb425e-30d4-4dbb-9ec8-af650a7dbba9">
 
 
 Register Worker: 
+
 <img width="555" alt="Screenshot 2024-08-15 141437" src="https://github.com/user-attachments/assets/c589ee28-ebae-4f81-8394-bb7b8b875c46">
 
 
 Take a new Order: 
+
 <img width="557" alt="Screenshot 2024-08-15 142347" src="https://github.com/user-attachments/assets/59f13929-f1fb-4d83-ba90-24c162a4173e">
 
 
 See On going Orders: 
+
 <img width="554" alt="Screenshot 2024-08-15 141555" src="https://github.com/user-attachments/assets/c269b5fa-af89-415d-b8f4-3e43f7e3062d">
 
 
 See Worker's Record
+
 <img width="556" alt="Screenshot 2024-08-15 141649" src="https://github.com/user-attachments/assets/4fa85407-7596-47e1-bdbb-054c718316ae">
 
 
 Get Ready Items from worker:
+
 <img width="554" alt="Screenshot 2024-08-15 141759" src="https://github.com/user-attachments/assets/e0525d0a-6542-45c1-8406-8df4e04919ef">
 
 
 Deliver to the customer: 
+
 <img width="557" alt="Screenshot 2024-08-15 142026" src="https://github.com/user-attachments/assets/b4fc772d-519e-48dd-83dc-f2d953129bde">
 
 Check The working video of the Project by clicking on the link given below :
