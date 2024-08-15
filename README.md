@@ -3,6 +3,7 @@ StitchWorks - Tailor Business Management System
 StitchWorks is a comprehensive desktop application developed using Java and JavaFX to streamline the operations of a tailor business. The system offers a robust set of features designed to help tailor shop owners efficiently manage their business.
 
 Key Features:
+
 Owner Login: Secure login for the owner using an ID and password.
 
 Customer Management: Store and manage detailed customer information.
