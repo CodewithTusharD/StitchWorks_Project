@@ -2,7 +2,7 @@
 StitchWorks - Tailor Business Management System
 StitchWorks is a comprehensive desktop application developed using Java and JavaFX to streamline the operations of a tailor business. The system offers a robust set of features designed to help tailor shop owners efficiently manage their business.
 
-Clone the repository StitchWorks_ProgramFiles
+# Clone the repository StitchWorks_ProgramFiles 
 here is the link given for the repo: https://github.com/CodewithTusharD/StitchWorks_ProgramFiles/tree/my-new-branch
 
 Check The working video of the Project by clicking on the link given below :
